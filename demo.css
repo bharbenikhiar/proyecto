@@ -1,0 +1,88 @@
+body{
+    font-family: Arial,sans-serif
+}
+#uno{
+    background-color: pink;
+}
+#dos{
+    background-color: silver;
+    border-color: silver;
+}
+.a {
+    word-wrap: break-word; 
+}
+img{
+    width: 45%;
+}
+.inset {border-style: solid;
+    border-color: silver;
+    display:inline-block;
+    padding:7px;
+    color: white;
+    letter-spacing: 10px;
+}
+.duo{
+    border-style: solid;
+    border-color: white;
+    display:inline-block;
+    padding:7px;
+    color: white;
+    letter-spacing: 10px;
+    margin-left: 20%;
+}
+.exp{
+    border-style: solid;
+    border-color: white;
+    padding:7px;
+    color: white;
+    letter-spacing: 15px;
+    margin: 5%;
+    
+
+}
+.lista{
+    list-style-type: none;
+    margin : 20px;
+    font-size: 12px  ;
+}
+.skill{
+    list-style-type: none;
+    margin : 20px;
+    font-size: 14px  ;
+    font-style: italic
+
+}
+#strat{
+    background-color: silver
+}
+#educ{
+    font-size: 12px  ;
+    color: rgba(48, 50, 52, 0.847);
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.langue{
+    list-style-type: none;
+    margin : 20px;
+    font-size: 14px  ;
+
+}
+#imin{
+    text-align: right;
+    margin-left: 25%
+}
+#yssar{
+    text-align: left;
+
+}
+#imin,#yssar{
+    display: inline-block;
+}
+#sfer{
+    color: pink;
+}
+
+    
+
